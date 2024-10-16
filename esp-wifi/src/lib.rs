@@ -104,7 +104,6 @@
 #![allow(unknown_lints)]
 #![allow(non_local_definitions)]
 
-extern crate alloc;
 
 // MUST be the first module
 mod fmt;
